@@ -533,3 +533,14 @@ body.dark .deal{
   background:#111;
 
 }
+/* TIMER DARK MODE FIX */
+
+body.dark .deal-timer{
+
+  background:#ff2b2b;
+
+  color:white;
+
+  border:2px solid black;
+
+}
